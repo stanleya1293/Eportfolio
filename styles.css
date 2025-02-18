@@ -1,0 +1,50 @@
+* {
+    background-color: white;
+}
+
+body {
+    border: solid 5px;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.section {
+    width: 100%;
+    height: 20%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    border: solid 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-text-container {
+    border: solid 2px;
+    padding: 2%;
+    font-size: 1.2rem;
+    text-indent: 3rem;
+    width: 70%;
+    height: 100%
+}
+
+.section-image-container {
+    width: 240;
+    height: 400;
+}
+
+.section-header {
+    text-align: center;
+    font-size: 2rem;
+    margin: 0%;
+}
+
+p {
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
