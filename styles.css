@@ -18,14 +18,12 @@ h1 {
     height: 20%;
     margin-top: 1.5%;
     margin-bottom: 1.5%;
-    border: solid 2px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .section-text-container {
-    border: solid 2px;
     padding: 2%;
     font-size: 1.2rem;
     text-indent: 3rem;
